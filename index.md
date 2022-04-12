@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 夏哲
 
-You can use the [editor on GitHub](https://github.com/xiazhe/xiazhe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 简介
+远程工作者，十多年WEB系统开发经验；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+研发项目经理&前端WEB专家职位，深圳捷视飞通；
 
-### Markdown
+地址：深圳南山西丽
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 可提供资源
 
-# Header 1
-## Header 2
-### Header 3
+研发项目管理
 
-- Bulleted
-- List
+WEB系统开发服务
 
-1. Numbered
-2. List
+### 熟悉领域
 
-**Bold** and _Italic_ and `Code` text
+音视频通讯
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiazhe/xiazhe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+视频会议、移动指挥、远程教育
